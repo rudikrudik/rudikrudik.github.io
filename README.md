@@ -15,3 +15,7 @@ markdown
 markdown
 ### 🔥 GitHub Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rudikrudik&theme=dark)](https://git.io/streak-stats)
+
+
+markdown
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudikrudik&show_icons=true&theme=radical)
