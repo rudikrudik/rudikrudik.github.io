@@ -5,7 +5,7 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/teuchezh/count.svg" />
+  <img src="https://profile-counter.glitch.me/rudikrudik/count.svg" />
 </p>
 <p align="center">
 <a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
@@ -13,17 +13,17 @@
 </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudikrudik&count_private=true&show_icons=true&theme=buefy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudikrudik&layout=compact&theme=buefy" />
 </p>
 
 
-[![teuchezh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=teuchezh&count_private=true&show_icons=true&theme=buefy)](https://github.com/teuchezh)
-[![teuchezh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teuchezh&layout=compact&theme=buefy)](https://github.com/teuchezh)
+[![Rudik GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudikrudik&count_private=true&show_icons=true&theme=buefy)](https://github.com/rudikrudik)
+[![Rudik wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rudikrudik&layout=compact&theme=buefy)](https://github.com/rudikrudik)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudikrudik&layout=compact&theme=buefy)](https://github.com/rudikrudik)
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Hello%20World!&fontSize=75&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20profile!%20Put%20stars,%20fork%20and%20contribute!&descAlignY=51&descAlign=62)
