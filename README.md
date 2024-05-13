@@ -19,3 +19,6 @@ markdown
 
 markdown
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudikrudik&show_icons=true&theme=radical)
+
+![Profile badge](https://www.codewars.com/users/rudik_rudik/badges/large)
+
